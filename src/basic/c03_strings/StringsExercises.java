@@ -1,7 +1,7 @@
 package basic.c03_strings;
 
 public class StringsExercises {
-    static void main() {
+    public static void main(String[] arg) {
         // 1. Concatena dos cadenas de texto.
         var welcome = "Bienvenido.";
         var question = "En que puedo ayudarte?";
