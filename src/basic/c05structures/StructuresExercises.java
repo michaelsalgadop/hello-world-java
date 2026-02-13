@@ -1,4 +1,4 @@
-package basic.c05_structures;
+package basic.c05structures;
 
 import java.util.ArrayList;
 import java.util.Arrays;

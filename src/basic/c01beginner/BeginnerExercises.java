@@ -1,4 +1,4 @@
-package basic.c01_beginner;
+package basic.c01beginner;
 
 public class BeginnerExercises {
 

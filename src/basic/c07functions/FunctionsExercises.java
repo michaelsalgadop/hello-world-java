@@ -1,4 +1,4 @@
-package basic.c07_functions;
+package basic.c07functions;
 
 import java.util.ArrayList;
 import java.util.Arrays;

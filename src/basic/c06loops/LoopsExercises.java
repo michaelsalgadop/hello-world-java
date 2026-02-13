@@ -1,6 +1,5 @@
-package basic.c06_loops;
+package basic.c06loops;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
