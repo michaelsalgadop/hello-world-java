@@ -1,6 +1,6 @@
-package basic.c08_oop;
+package basic.c08oop;
 
-import basic.c08_oop.model.*;
+import basic.c08oop.model.*;
 
 import java.util.ArrayList;
 import java.util.Arrays;

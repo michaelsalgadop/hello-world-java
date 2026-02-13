@@ -1,4 +1,4 @@
-package basic.c08_oop.model;
+package basic.c08oop.model;
 
 public class BankAccount {
     private double balance;

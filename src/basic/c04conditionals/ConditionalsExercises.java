@@ -1,4 +1,4 @@
-package basic.c04_conditionals;
+package basic.c04conditionals;
 
 public class ConditionalsExercises {
     public static void main(String[] arg) {

@@ -1,4 +1,4 @@
-package basic.c00_helloworld;
+package basic.c00helloworld;
 
 public class HelloWorldExercises {
      static void main(String[] args) {
