@@ -1,4 +1,4 @@
-package basic.c08oop.model;
+package basic.c08oop.classes.model;
 
 public class Worker {
     private String name;
