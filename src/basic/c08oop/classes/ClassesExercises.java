@@ -1,6 +1,6 @@
-package basic.c08oop;
+package basic.c08oop.classes;
 
-import basic.c08oop.model.*;
+import basic.c08oop.classes.model.*;
 
 import java.util.ArrayList;
 import java.util.Arrays;
