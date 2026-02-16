@@ -1,16 +1,19 @@
-package basic.c08oop.accesmodifiers.models;
+package basic.c08oop.inheritance.models.account;
 
-public class BankAccount {
+public class Account {
     private double balance;
 
-    public BankAccount(double balance) {
-        this.deposit(balance);
+    public Account(double balance) {
+        this.setBalance(balance);
     }
 
     public double getBalance() {
         return balance;
     }
 
+    public void setBalance(double balance) {
+        this.balance = balance >= 0 ? balance : 0;
+    }
     public void deposit(double balance) {
         if (balance > 0){
             this.balance += balance;
